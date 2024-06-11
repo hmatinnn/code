@@ -1,2 +1,2 @@
 # code
-RFM_Analysis
+Customer Segmentation using RFM analysis with Python(Pandas).
